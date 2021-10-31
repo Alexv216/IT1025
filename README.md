@@ -4,7 +4,7 @@
 To be completed in the last module of the semester.
 
 ## Information System Components
-
+  Many people use ATM's out of convenience. An ATM machine is an information system that conducts transactions automatically without the need to go to the bank. The hardware used to complete the process usually consists of a bank card that has the users data being scanned by the ATM. The hardware used to scan is normally a chip on the card and then the user can select what functions they would like to perfomr using the touch screen or keyboard on the ATM. The banks software installed and linked into the ATM then sends that data to the servers that holds customer account information and completes the transaction. 
 ## Software
 ### GitHub 
   I have no experience using GitHub, for my first time using it it's not as bad as I thought it would be. I do use cloud computing a lot throughout my day. I use google drive for other classes and I have a subscription for PLaystaionNow which is cloud based gaming service I use on my PC. Also play on servers on my PC and some of the older games are client-side server based so I wuld end up being the client host for games. I look forward to how GitHub uses these in its own way.
