@@ -9,7 +9,7 @@ To be completed in the last module of the semester.
 ### GitHub 
   I have no experience using GitHub, for my first time using it it's not as bad as I thought it would be. I do use cloud computing a lot throughout my day. I use google drive for other classes and I have a subscription for PLaystaionNow which is cloud based gaming service I use on my PC. Also play on servers on my PC and some of the older games are client-side server based so I wuld end up being the client host for games. I look forward to how GitHub uses these in its own way.
 ### Screen Capture
-  I sued Windows snipping tool to get the ScreenCapture.PNG image I uploaded which was 424 KB (435,155 bytes). 
+  I used Windows' snipping tool to get the ScreenCapture.PNG image that I uploaded which was 424 KB (435,155 bytes). 
 ### Operating Systems and File Management
 ### ERP
 ### Python
