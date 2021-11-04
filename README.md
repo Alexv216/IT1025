@@ -22,10 +22,14 @@ To be completed in the last module of the semester.
 ### Gates and Circuits
 ### Memory
 ### RAM vs. Hard Disk Storage
+feeffeef
 ### Storage
 ### Latency and Transfer Rates 
-
+The differnece between latrency and transfer rates are:
+  Latency is a drive’s average access time between the time a request for data is made by the system and the time the data is available from the drive which is measured in miliseconds.
+  Transfer rates is the speed at which data is transferred to and from the disk media and is a function of the recording frequency measured in megabytes per second.
 ### Solid State vs. Traditional Hard Drives
+  The difference between a solid state drive and the traditional hard drive is that a solid state drive does not use disks, heads, platters, magnetic surfaces, spindles and other complex moving parts that the traditional hard drive uses.  The solid state is also faster and more effective than a harddrive since it does not rely on the movement of a disk that can wear out with time.
 ### Data Representation
 ### IEEE
 
