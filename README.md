@@ -21,7 +21,11 @@ To be completed in the last module of the semester.
 ### CPU
 ### Gates and Circuits
 ### Memory
+### RAM vs. Hard Disk Storage
 ### Storage
+### Latency and Transfer Rates 
+
+### Solid State vs. Traditional Hard Drives
 ### Data Representation
 ### IEEE
 
