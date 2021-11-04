@@ -21,8 +21,9 @@ To be completed in the last module of the semester.
 ### CPU
 ### Gates and Circuits
 ### Memory
+Increasing RAM increases the computing speed because if there isn't enough memory to processes data then the data is going back to the hard drive that is slower causing  the PC to work slower than a PC with a significantly larger amount of memory that can store and transfer the data at higher rates.The difference between 64-bit and 32-bit data path is that 64-bit can process 64 bits of data per cycle compared to the 32-bit datapath. Making the 64-bit twice as fast than the 32-bit
 ### RAM vs. Hard Disk Storage
-feeffeef
+Two difference between RAM and hard disk storage is that RAM is much faster at processing data to the CPU while hard disk storage is slower and hard disk storage can hold the data for a longer time while RAM can only store data for a short time.
 ### Storage
 ### Latency and Transfer Rates 
 The differnece between latrency and transfer rates is that latency is a drive’s average access time between the time a request for data is made by the system and the time the data is available from the drive which is measured in miliseconds and transfer rates is the speed at which data is transferred to and from the disk media and is a function of the recording frequency measured in megabytes per second.
