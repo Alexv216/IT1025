@@ -19,7 +19,10 @@ To be completed in the last module of the semester.
 
 ## Computer Architecture
 ### CPU
+The purpose of the CPU is to function as the brain of the computer. It processes data from the RAM, it also displays output data and takes in input data to perform tasks for programs. The control unit takes instructions from RAM and sends out commands to the other parts of the CPU. The ALU performs all of the math operations of the CPU. The control unit takes the information from RAM and sends operations for the ALU to solve and send an answer to the control unit to decide what to do when it receives new instructions.
+When using a self checkout station, the CPU of the station gets instructions from the input of the barcode scanned. It then processes the input as the item scanned and then processes the data as the output on the monitor displaying the price and what the item is. 
 ### Gates and Circuits
+A truth table shows the output for every possible input. It is meant to take in two inputs and compare them to determine the correct ouput. The AND table focuses on output only with all inputs. For example, If both inputs are 1, the output will be 1 as well. Otherwise the output will be 0. The OR table depends on if either input is 1, the output will be 1 as well. Otherwise the output will be 0.
 ### Memory
 Increasing RAM increases the computing speed because if there isn't enough memory to processes data then the data is going back to the hard drive that is slower causing  the PC to work slower than a PC with a significantly larger amount of memory that can store and transfer the data at higher rates.The difference between 64-bit and 32-bit data path is that 64-bit can process 64 bits of data per cycle compared to the 32-bit datapath. Making the 64-bit twice as fast than the 32-bit
 ### RAM vs. Hard Disk Storage
@@ -31,7 +34,7 @@ The differnece between latrency and transfer rates is that latency is a drive’
   The difference between a solid state drive and the traditional hard drive is that a solid state drive does not use disks, heads, platters, magnetic surfaces, spindles and other complex moving parts that the traditional hard drive uses.  The solid state is also faster and more effective than a hard drive since it does not rely on the movement of a disk that can wear out with time.
 ### Data Representation
 ### IEEE
-
+IEEE is an organization that focuses on advancing the innovation and technology for the benefit of humanity. Their approach on the ethics of computing consists of ways of how to make technology grener for the environment and how to make sure that technology benefits all of humanity without hurting others. 
 ## Networking
 ### Data Transmission
 ### Hardware
