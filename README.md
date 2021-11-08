@@ -34,6 +34,8 @@ The differnece between latrency and transfer rates is that latency is a drive’
   The difference between a solid state drive and the traditional hard drive is that a solid state drive does not use disks, heads, platters, magnetic surfaces, spindles and other complex moving parts that the traditional hard drive uses.  The solid state is also faster and more effective than a hard drive since it does not rely on the movement of a disk that can wear out with time.
 ### Data Representation
 The difference between decimal, binary, and hexadecimal representation is the base powers they are based on. The decimal system is based on the base power of 10 and has 10 digits, the binary system is based on the base power of 2 and only has 2 digits. The binary system is also an 8-bit data representation and can only go up to 255. The hexadecimal system is a 16-digit data representation and is based off the base power of 16. Hexadecimal also uses letters to fill in for the digits passed the number 9. For example, 10 is A and 15 is represented by F.
+The file 3DecimalConversion.png shows the conversion of the decimal 156 into binary. The file size is 6.77 KBs. The file 4BinvaryConversion.png is 6.63 KBs in size and it shows the binary code of 11111101 converted into the decimal 253.
+### Hexadecimal Color Representation 
 ### IEEE
 IEEE is an organization that focuses on advancing the innovation and technology for the benefit of humanity. Their approach on the ethics of computing consists of ways of how to make technology grener for the environment and how to make sure that technology benefits all of humanity without hurting others. 
 ## Networking
