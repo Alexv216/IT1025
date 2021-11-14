@@ -6,14 +6,18 @@ To be completed in the last module of the semester.
 ## Information System Components
   Many people use ATM's out of convenience. An ATM machine is an information system that conducts transactions automatically without the need to go to the bank. The hardware used to complete the process usually consists of a bank card that has the users data being scanned by the ATM. The hardware used to scan is normally a chip on the card and then the user can select what functions they would like to perfomr using the touch screen or keyboard on the ATM. The banks software installed and linked into the ATM then sends that data to the servers that holds customer account information and completes the transaction. 
 ## Software
+The roles of application, utility, and operating system software are vital to a functioning computer. The role of application software is to accomplish a specific goal such as word processing, calculations on a spreadsheet, or using the internet on a browser. The role of utility is to fix or modify a computer. Examples include anti-malware software and programs that totally remove software no longer wanted installed. Operating systems are the brain of computers, the role of the operating system is to manage the hardware resources of the computer, providing the user-interface components, and to provide a platform for software developers to write applications. An example of operating systems are Windows, Mac OS and Linux.
 ### GitHub 
   I have no experience using GitHub, for my first time using it it's not as bad as I thought it would be. I do use cloud computing a lot throughout my day. I use google drive for other classes and I have a subscription for PLaystaionNow which is cloud based gaming service I use on my PC. Also play on servers on my PC and some of the older games are client-side server based so I wuld end up being the client host for games. I look forward to how GitHub uses these in its own way.
 ### Screen Capture
   I used Windows' snipping tool to get the ScreenCapture.PNG image that I uploaded which was 424 KB (435,155 bytes). 
 ### Operating Systems and File Management
 ### ERP
+ERP was developed to bring together an entire organization within one program. it utilizes a central database, all users of the ERP edit and save their information from the same data source, includes functionality that covers all of the essential components of a business. Examples of ERP systems are SAP, Oracle, and Microsoft.
 ### Python
+Python is a programming language created by Guido van Rossum. It has efficient high-level data structures and effective approaches to object-oriented programming. The difference between an interpreted language and a compiled language is a compiled language is converted from the source language  into a language that is spoken by the computer using a compiler. An interpreted language runs the program directly from the source code, it converts the source code into bytecodes and then translates it into the native language of your computer and then runs it. 
 ### Virtualization
+The purpose of virtualization is to create useful IT services using resources that are traditionally bound to hardware. It allows a physical machine’s full capacity to be used by distributing its capabilities among many users or environments. An example of this are virtual machines and how they can virtualize operating systems if the user does not want to install the OS itself on a physical hard drive. The role of hypervisors in virtualization is to take physical resources and divide them up so that virtual environments can use them. 
 ### Graphics Modeling and Rendering
 ### Artificial Intelligence
 
