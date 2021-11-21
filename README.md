@@ -16,8 +16,9 @@ The roles of application, utility, and operating system software are vital to a 
 ERP was developed to bring together an entire organization within one program. it utilizes a central database, all users of the ERP edit and save their information from the same data source, includes functionality that covers all of the essential components of a business. Examples of ERP systems are SAP, Oracle, and Microsoft.
 ### Python
 Python is a programming language created by Guido van Rossum. It has efficient high-level data structures and effective approaches to object-oriented programming. The difference between an interpreted language and a compiled language is a compiled language is converted from the source language  into a language that is spoken by the computer using a compiler. An interpreted language runs the program directly from the source code, it converts the source code into bytecodes and then translates it into the native language of your computer and then runs it. 
-
 The file "Python1" contains the "Hello Alex!" code and is 27.9 KB, the file "Python2" contains the lines of code that produces "The number is 17" and "My name is Alex" with the use of variables, it is 17.7 KB.
+### Python IDLE 
+The difference between IDLE and file editor is that IDLE runs Python instructions one at a time and shows results immediately while file editor lets the user enter Python code for complete programs. Also IDLE has the triple angle bracket.
 ### Virtualization
 The purpose of virtualization is to create useful IT services using resources that are traditionally bound to hardware. It allows a physical machine’s full capacity to be used by distributing its capabilities among many users or environments. An example of this are virtual machines and how they can virtualize operating systems if the user does not want to install the OS itself on a physical hard drive. The role of hypervisors in virtualization is to take physical resources and divide them up so that virtual environments can use them. 
 ### Graphics Modeling and Rendering
