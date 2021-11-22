@@ -22,6 +22,13 @@ The difference between IDLE and file editor is that IDLE runs Python instruction
 ### Virtualization
 The purpose of virtualization is to create useful IT services using resources that are traditionally bound to hardware. It allows a physical machine’s full capacity to be used by distributing its capabilities among many users or environments. An example of this are virtual machines and how they can virtualize operating systems if the user does not want to install the OS itself on a physical hard drive. The role of hypervisors in virtualization is to take physical resources and divide them up so that virtual environments can use them. 
 ### Graphics Modeling and Rendering
+
+### Raster vs. Vector Graphics
+The difference between raster and vector graphics are that with raster graphics when you zoom in on a picture you can see the pixels that make up the image while with vector graphics the image does not lose its quality when you zoom in on it. 
+### Lossless vs. Lossy Compression
+Each image format is important for different reasons. When using lossless image compression all of the data from the original file is preserved while lossy compression removes some data from the original file and saves the image with a reduced file size. Depending on how important the image is to the website and if it is one that needs to be high quality or not, web developers can either save space or produce high quality images for users.
+### File Formats
+The diferences between JPEG, GIF, and PNG files are their functions. JPEG files use lossy compression to create smaller file sizes and allows designers to finely adjust the amount of compression used, resulting in better image quality with the smallest reasonable file size. GIF files are the only type of format that allows animated images to be produced. PNG files use lossless data compression and support palette-based color, greyscale, RGBA and RGB color spaces, it also supports a number of transparency options, including alpha channel transparency.
 ### Artificial Intelligence
 
 ## Computer Architecture
