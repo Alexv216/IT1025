@@ -63,7 +63,7 @@ Single point of failure is when a switch or hub shuts down or fails, causing all
 The difference between infrastructure topology and wireless mesh topology is that infrastructure topology has both wired and wireless devices, such as laptops can connect to the network while wireless mesh topology is like mesh topology but requires no extra cable connection as all of teh wireless access points would talk to each toher sending data to the modem. 
 I think that having a wireless mesh topology is better because it is more convenient and can reroute data if any issues come up. It also requires less cables running throughout the building making it easier to get work done anywhere as long as there is a connection. 
 ### Protocols
-
+Network protocols take large-scale processes and break them down into small tasks. Each function must cooperate at each level to complete the larger task. The three types of protocols are communication, security, and network mangement. Communication protocols allow different devices to communicate with each other.An example of this is transferring files between devices and accessing the internet. Security protocols ensure that the network and the data sent over it are protected from unauthorized users. An example of security protocol is encrypting data to ensure only authorized users can only see the data. Network management protocols define and describe the various procedures needed to effectively operate a computer network to ensure the network perform optimally such as establishing and maintaining stable connections between different devices on the same network.
 ## Cybersecurity and Encryption
 ### Security Triad
 ### Caesar and Polyalphabetic Ciphers
