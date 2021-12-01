@@ -55,8 +55,13 @@ The hexadecimal color #ab00ff has RGB values of R:171, G:0, B:255 and CMYK value
 IEEE is an organization that focuses on advancing the innovation and technology for the benefit of humanity. Their approach on the ethics of computing consists of ways of how to make technology grener for the environment and how to make sure that technology benefits all of humanity without hurting others. 
 ## Networking
 ### Data Transmission
+The data transmission process starts with the protocol, each device must follow a set a rules to allow each other to communicate. Once the protocol is set one device will send units of data called packets to another device to perform a task. This is done by packet-switching, technology that allows packets of data to be routed based on destination address. When trying to access a website the device trying to access the site will send packets to request to access the DNS which is the directory of IP address common names and an IP address is the unique identifying number of a device.
 ### Hardware
+The benefit of a switch over a hub is the secuirty of the switch and its intelligence and can memorize MAC addresses, reducing unneccesary traffic. The beneift of a router over both hubs and switches is a router can send data outside its own network and routes data from one network to another based opn IP addresses.
 ### Topologies and Types of Networks
+Single point of failure is when a switch or hub shuts down or fails, causing all the computers to fail, causing an entire network to go down. 
+The difference between infrastructure topology and wireless mesh topology is that infrastructure topology has both wired and wireless devices, such as laptops can connect to the network while wireless mesh topology is like mesh topology but requires no extra cable connection as all of teh wireless access points would talk to each toher sending data to the modem. 
+I think that having a wireless mesh topology is better because it is more convenient and can reroute data if any issues come up. It also requires less cables running throughout the building making it easier to get work done anywhere as long as there is a connection. 
 ### Protocols
 
 ## Cybersecurity and Encryption
