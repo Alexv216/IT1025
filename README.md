@@ -66,10 +66,13 @@ I think that having a wireless mesh topology is better because it is more conven
 Network protocols take large-scale processes and break them down into small tasks. Each function must cooperate at each level to complete the larger task. The three types of protocols are communication, security, and network mangement. Communication protocols allow different devices to communicate with each other.An example of this is transferring files between devices and accessing the internet. Security protocols ensure that the network and the data sent over it are protected from unauthorized users. An example of security protocol is encrypting data to ensure only authorized users can only see the data. Network management protocols define and describe the various procedures needed to effectively operate a computer network to ensure the network perform optimally such as establishing and maintaining stable connections between different devices on the same network.
 ## Cybersecurity and Encryption
 ### Security Triad
+The three components of the security triad is confidentiality, integrity, and availability. Each one of these components would affect online medical records like MyChart in different ways. For example, the confidentiality component keeps the data of each patient confidential to them only and thier doctor. Integrity ensures that the information displayed on record has not been altered or incorrect in any way. Finally, availability of information of the patient. New diagnoses and test results need to be available for patients to view any new information on thier health.
 ### Caesar and Polyalphabetic Ciphers
+A polyalphabetic cipher is a cipher that contains a shift word within the first layer of code. While a Caesar cipher are words with the letters shifted a certain number of letters, the polyalphabetic cipher takes the code and uses a word to shift the the enitre message even more making a lighter letter frequency, making it mmore diffivult tofind the shift word. 
 ### Public and Private Key Encryption
+Public key encryption is an ecryption method where encrypting data with two different keys and making one of the public key available for anyone to use. Private key encryption is a form of encryption where only a single private key can encrypt and decrypt information
 ### Brute-Force Attacks
-
+There are several methods to improve protection against brute force attacks. Using a long, unique password makes it more difficult to discover your password. Aslo,having a securing remote desktop connections leaving a remote desktop off as much as possible helps too. Using two-factor authentication is far more difficult to crack through when a correct password isn’t enough to log into an account. With 2FA, users need their phone or a physical security key to log into their accounts, making the account far more secure.
 ## Internet Programming
 ### Components of a URL
 ### World Wide Web Consortium
