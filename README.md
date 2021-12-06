@@ -86,7 +86,8 @@ There are several methods to improve protection against brute force attacks. Usi
 ## Internet Programming
 ### Components of a URL
 ### World Wide Web Consortium
-
+Tim Berners-Lee is the inventor of the World Wide Web and he created W3C to lead the World Wide Web to its full potential by developing protocols and guidelines that ensure the long-term growth of the Web.
+The standard I find to be important is the Web of Devices standard. Giving web access to any device such as phones and other mobile devices as well as consumer electronics, printers, interactive television, and even automobiles is very important as the availability increases the accessability for those who may not have been able to use web technology previously. It also can improve the quality of life for users of some of the devices.
 ## File Compression
 
 ## Software Development
