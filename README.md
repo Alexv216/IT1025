@@ -86,10 +86,15 @@ There are several methods to improve protection against brute force attacks. Usi
 ## Internet Programming
 ### Components of a URL
 Scheme:https ex. https://edu.gcfglobal.org/en/internet-tips/understanding-urls/1/
+
 Domain: www.amazon.com ex. https://edu.gcfglobal.org/en/internet-tips/understanding-urls/1/
+
 Top Level Domain: .edu ex. https://edu.gcfglobal.org/en/internet-tips/understanding-urls/1/
+
 Default Page: no file path provided ex. https://edu.gcfglobal.org/en/internet-tips/understanding-urls/1/
+
 Parameters: result of search ex. https://edu.gcfglobal.org/en/internet-tips/understanding-urls/1/
+
 Anchor: specific location on a page. ex. https://edu.gcfglobal.org/en/internet-tips/understanding-urls/1/
 
 ### World Wide Web Consortium
