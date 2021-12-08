@@ -85,6 +85,13 @@ Public key encryption is an ecryption method where encrypting data with two diff
 There are several methods to improve protection against brute force attacks. Using a long, unique password makes it more difficult to discover your password. Aslo,having a securing remote desktop connections leaving a remote desktop off as much as possible helps too. Using two-factor authentication is far more difficult to crack through when a correct password isn’t enough to log into an account. With 2FA, users need their phone or a physical security key to log into their accounts, making the account far more secure.
 ## Internet Programming
 ### Components of a URL
+Scheme:https ex. https://edu.gcfglobal.org/en/internet-tips/understanding-urls/1/
+Domain: www.amazon.com ex. https://edu.gcfglobal.org/en/internet-tips/understanding-urls/1/
+Top Level Domain: .edu ex. https://edu.gcfglobal.org/en/internet-tips/understanding-urls/1/
+Default Page: no file path provided ex. https://edu.gcfglobal.org/en/internet-tips/understanding-urls/1/
+Parameters: result of search ex. https://edu.gcfglobal.org/en/internet-tips/understanding-urls/1/
+Anchor: specific location on a page. ex. https://edu.gcfglobal.org/en/internet-tips/understanding-urls/1/
+
 ### World Wide Web Consortium
 Tim Berners-Lee is the inventor of the World Wide Web and he created W3C to lead the World Wide Web to its full potential by developing protocols and guidelines that ensure the long-term growth of the Web.
 The standard I find to be important is the Web of Devices standard. Giving web access to any device such as phones and other mobile devices as well as consumer electronics, printers, interactive television, and even automobiles is very important as the availability increases the accessability for those who may not have been able to use web technology previously. It also can improve the quality of life for users of some of the devices.
