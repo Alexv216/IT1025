@@ -85,17 +85,19 @@ Public key encryption is an ecryption method where encrypting data with two diff
 There are several methods to improve protection against brute force attacks. Using a long, unique password makes it more difficult to discover your password. Aslo,having a securing remote desktop connections leaving a remote desktop off as much as possible helps too. Using two-factor authentication is far more difficult to crack through when a correct password isn’t enough to log into an account. With 2FA, users need their phone or a physical security key to log into their accounts, making the account far more secure.
 ## Internet Programming
 ### Components of a URL
-Scheme:https ex. https://edu.gcfglobal.org/en/internet-tips/understanding-urls/1/
+Scheme:https 
 
-Domain: www.amazon.com ex. https://edu.gcfglobal.org/en/internet-tips/understanding-urls/1/
+Domain: www.amazon.com 
 
-Top Level Domain: .edu ex. https://edu.gcfglobal.org/en/internet-tips/understanding-urls/1/
+Top Level Domain: .edu 
 
-Default Page: no file path provided ex. https://edu.gcfglobal.org/en/internet-tips/understanding-urls/1/
+Default Page: no file path provided 
 
-Parameters: result of search ex. https://edu.gcfglobal.org/en/internet-tips/understanding-urls/1/
+Parameters: result of search 
 
-Anchor: specific location on a page. ex. https://edu.gcfglobal.org/en/internet-tips/understanding-urls/1/
+Anchor: specific location on a page. 
+
+Each component is important to the URL’s structure. For example, the scheme can tell a user whether or not a site is secure with the “https” scheme.  The domain name gives users access to the site with an easy to remember name such as google.com. Also, when searching through google, the parameter string is vital to the servers understanding of what a user may be trying to search The top level domain shows users what kind of site they're about to enter whether it is .edu for an education based site or .org for an organization. The anchor can take users to a specific part of a website to save time on scrolling through the default page and traversing the file path.  
 
 ### World Wide Web Consortium
 Tim Berners-Lee is the inventor of the World Wide Web and he created W3C to lead the World Wide Web to its full potential by developing protocols and guidelines that ensure the long-term growth of the Web.
