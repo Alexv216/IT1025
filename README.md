@@ -110,13 +110,19 @@ The standard I find to be important is the Web of Devices standard. Giving web a
 
 ## Database Systems
 ### SQL, NoSQL, and Big Data Technologies
-SQL stands for Structured Query Language and it is used as a way to analyze and manipulate relational data ranging from a simple request for data to a complex update operation. NoSQL is another type of database. Compared to SQL, NoSQL can work with data in a looser way, allowing for a more unstructured environment, communicating changes to the data over time to all the large-scale databases spread over several servers.
+SQL stands for Structured Query Language and it is used as a way to analyze and manipulate relational data ranging from a simple request for data to a complex update operation. NoSQL is another type of database. Compared to SQL, NoSQL can work with data in a looser way, allowing for a more unstructured environment, communicating changes to the data over time to all the large-scale databases spread over several servers. The demand for big data has increased due to technologies such as artifical intelligence, NoSQL databases, and organizations.
 ### The Four V's of Big Data
 The four V's of big data are volume, variety, velocity, and variability. Volume is dependent upon the size of data which plays a very crucial role in determining whether the value of a particular data can be considered as Big Data or not. Variety refers both structured and unstructured data and how many types of applications can be used for data analysis. Velocity deals with the speed at which data flows in from sources like business processes, application logs, networks, and social media sites at a massive and continuous flow. Variability is the inconsistency which can be shown by data at times, hampering the process of effective handling and management of the data.
 
 
 ### Data and Business Decisions
-### The relational model and Normalization
+Three business decisions that could be answered with a well designed database would be:
+1. Determining which department may need more people depending on the output data of the departments performance based on the staff.
+2. Seeing if the company is doing well financially and checking to see if it needs to increase or decrease its budget.
+3. Determining what the company can do to attract new customers. 
+These decisions are dependent on data and a good database can organize data neatly and make finding the solution to these problems much easier. 
+### The Relational Model and Normalization
+Primary and foreign keys would be essential for the decisions I would have made because I would be able trace which employee belongs to which department and i can determine if that person's needs help or not by looking at the foreign key which relates to their primary key. The normalization of the database would make processing the data much easier to understand and help with analyzing  what improvements need to be made to improve company performance. 
 ### SQL Injections
 
 ## Legal and Ethical Responsibilities in Computing
