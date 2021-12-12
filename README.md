@@ -104,6 +104,8 @@ Tim Berners-Lee is the inventor of the World Wide Web and he created W3C to lead
 The standard I find to be important is the Web of Devices standard. Giving web access to any device such as phones and other mobile devices as well as consumer electronics, printers, interactive television, and even automobiles is very important as the availability increases the accessability for those who may not have been able to use web technology previously. It also can improve the quality of life for users of some of the devices.
 ## File Compression
 File compression is a way of grouping multiple files so they act like one file, making the total file size smaller and it takes less time to upload and downloads more quickly.
+
+The difference between the original svg file and the compressed zip file was not as big as i thought it would be. The file was originally 24KB and when compressed it went down to 17KB. I would expect a JPEG file reduce signifcantly when reduced to a zip since I have had to compress a JPEG file once in order to send it to a friend and the reduction in file size was massive. 
 ## Software Development
 ### Algorithms
 ### Object Oriented Concepts
