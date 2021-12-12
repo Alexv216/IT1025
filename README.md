@@ -110,6 +110,11 @@ The standard I find to be important is the Web of Devices standard. Giving web a
 
 ## Database Systems
 ### SQL, NoSQL, and Big Data Technologies
+SQL stands for Structured Query Language and it is used as a way to analyze and manipulate relational data ranging from a simple request for data to a complex update operation. NoSQL is another type of database. Compared to SQL, NoSQL can work with data in a looser way, allowing for a more unstructured environment, communicating changes to the data over time to all the large-scale databases spread over several servers.
+### The Four V's of Big Data
+The four V's of big data are volume, variety, velocity, and variability. Volume is dependent upon the size of data which plays a very crucial role in determining whether the value of a particular data can be considered as Big Data or not. Variety refers both structured and unstructured data and how many types of applications can be used for data analysis. Velocity deals with the speed at which data flows in from sources like business processes, application logs, networks, and social media sites at a massive and continuous flow. Variability is the inconsistency which can be shown by data at times, hampering the process of effective handling and management of the data.
+
+
 ### Data and Business Decisions
 ### The relational model and Normalization
 ### SQL Injections
