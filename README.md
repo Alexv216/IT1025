@@ -128,7 +128,7 @@ These decisions are dependent on data and a good database can organize data neat
 ### The Relational Model and Normalization
 Primary and foreign keys would be essential for the decisions I would have made because I would be able trace which employee belongs to which department and i can determine if that person's needs help or not by looking at the foreign key which relates to their primary key. The normalization of the database would make processing the data much easier to understand and help with analyzing  what improvements need to be made to improve company performance. 
 ### SQL Injections
-
+SQL injections are a security threat because the code injection might destroy your database. It is one of the most common hacking techniques used by hackers since they can placet malicious code in SQL statements via web page input. SQL parameters are used in order to protect a web site from SQL injection. The parameters set values that are added to a query at execution time in a controlled manner. Also, the SQL engine checks each parameter to ensure that each value is correct for its column and are treated literally not as a part of the SQL that would need to be executed.
 ## Legal and Ethical Responsibilities in Computing
 ### 
 
