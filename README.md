@@ -117,8 +117,6 @@ The diagram I created called SharkClass shows the names of the sharks and the at
 SQL stands for Structured Query Language and it is used as a way to analyze and manipulate relational data ranging from a simple request for data to a complex update operation. NoSQL is another type of database. Compared to SQL, NoSQL can work with data in a looser way, allowing for a more unstructured environment, communicating changes to the data over time to all the large-scale databases spread over several servers. The demand for big data has increased due to technologies such as artifical intelligence, NoSQL databases, and organizations.
 ### The Four V's of Big Data
 The four V's of big data are volume, variety, velocity, and variability. Volume is dependent upon the size of data which plays a very crucial role in determining whether the value of a particular data can be considered as Big Data or not. Variety refers both structured and unstructured data and how many types of applications can be used for data analysis. Velocity deals with the speed at which data flows in from sources like business processes, application logs, networks, and social media sites at a massive and continuous flow. Variability is the inconsistency which can be shown by data at times, hampering the process of effective handling and management of the data.
-
-
 ### Data and Business Decisions
 Three business decisions that could be answered with a well designed database would be:
 1. Determining which department may need more people depending on the output data of the departments performance based on the staff.
@@ -130,6 +128,8 @@ Primary and foreign keys would be essential for the decisions I would have made 
 ### SQL Injections
 SQL injections are a security threat because the code injection might destroy your database. It is one of the most common hacking techniques used by hackers since they can placet malicious code in SQL statements via web page input. SQL parameters are used in order to protect a web site from SQL injection. The parameters set values that are added to a query at execution time in a controlled manner. Also, the SQL engine checks each parameter to ensure that each value is correct for its column and are treated literally not as a part of the SQL that would need to be executed.
 ## Legal and Ethical Responsibilities in Computing
+ A code of ethics is a document outlining acceptable behaviors and details different actions that are considered appropriate and inappropriate for a professional or social group agreed to by all members of the group. 
+
 ### 
 
 ## Career Exploration
