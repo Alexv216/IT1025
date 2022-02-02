@@ -135,7 +135,7 @@ SQL injections are a security threat because the code injection might destroy yo
 ## Career Exploration
 ### Bureau of Labor Statistics
 ### Handshake
-#https://app.joinhandshake.com/stu/users/25212159
+https://app.joinhandshake.com/stu/users/25212159
 
 ### Certifications, Certificates, and Degrees
 
