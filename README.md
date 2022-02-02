@@ -1,7 +1,7 @@
 ## Alex Velazquez / 10/31/2021
 
 ## Executive Summary
-To be completed in the last module of the semester.
+This is my work in the course IT1025 at Cuyahoga Community College. It shows the my proficiency in understanding the basics of programming and hardware. 
 
 ## Information System Components
   Many people use ATM's out of convenience. An ATM machine is an information system that conducts transactions automatically without the need to go to the bank. The hardware used to complete the process usually consists of a bank card that has the users data being scanned by the ATM. The hardware used to scan is normally a chip on the card and then the user can select what functions they would like to perfomr using the touch screen or keyboard on the ATM. The banks software installed and linked into the ATM then sends that data to the servers that holds customer account information and completes the transaction. 
