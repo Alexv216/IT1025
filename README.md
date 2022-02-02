@@ -139,7 +139,7 @@ SQL injections are a security threat because the code injection might destroy yo
 ...https://app.joinhandshake.com/stu/users/25212159...
 
 
- [Handshake]: ###Handshake
+[Handshake](#Handshake)
 
 ### Certifications, Certificates, and Degrees
 
